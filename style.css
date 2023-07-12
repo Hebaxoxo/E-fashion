@@ -232,3 +232,13 @@ body{
   bottom: 30px;
   right: 25px;
 }
+
+/*Banner*/
+#banner{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url("img/banner/b2.jpg");
+}
