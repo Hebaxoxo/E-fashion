@@ -173,6 +173,7 @@ body{
   cursor: pointer;
   box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
   transition: 0.2s ease;
+  position: absolute;
 }
 
 #product1 .pro:hover{
@@ -220,4 +221,7 @@ body{
   font-weight: 500;
   color: #088178;
   border: 1px solid #cce7d0;
+  position: absolute;
+  bottom: 30px;
+  right: 25px;
 }
